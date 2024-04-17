@@ -1,12 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nelson Silva
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=BA11F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+there!;I'm+Nelson+Silva!)](https://git.io/typing-svg)
 ====================================================================================================================================
 
 Computer Science Student
 ------------------------
 
 * 🌍  I'm based in Curico, Chile
-* ✉️  You can contact me at [cconelsonsilva@gmail.com](mailto:cconelsonsilva@gmail.com)
-* 🧠  I'm learning MEVN Stack
+* 🧠  I'm currently learning MEVN stack
+* 🌟  I'm interested in web and mobile development
+* * ✉️  You can contact me at [cconelsonsilva@gmail.com](mailto:cconelsonsilva@gmail.com)
 
 ### Skills
 
