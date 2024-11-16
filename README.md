@@ -6,9 +6,10 @@ Computer Science Student
 ------------------------
 
 * 🌍  I'm based in Curico, Chile
-* 🧠  I'm currently learning MEVN stack
-* 🌟  I'm interested in web and mobile development
-* ✉️  You can contact me at [cconelsonsilva@gmail.com](mailto:cconelsonsilva@gmail.com)
+* 🌟  I'm interested in Web Development & Cloud Technologies
+* 🧠  I'm currently learning about AWS, Docker, and web development
+* 🌱  Passionate about continuous learning and growing as a software engineer
+* ✉️  You can contact me at [cconelsonsilva@gmail.com](mailto:cconelsonsilva@gmail.com)
 
 ### Skills
 
